@@ -3,3 +3,5 @@ Este ejercicio te guiará a través de una serie de commits para entender
 mejor cómo Git maneja los cambios en los archivos.
 
 Mas información..
+
+Cambios adicionales.
